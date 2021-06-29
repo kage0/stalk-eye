@@ -26,6 +26,3 @@ document.onmousemove = function (e) {
 };
 
 array.forEach((element, index) => {});
-
-
-  Je suis le plus grand 
