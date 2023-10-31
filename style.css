@@ -60,7 +60,7 @@ body {
   animation: close-eye 2s forwards;
   overflow: hidden;
   transition: all 1s;
-  border: 2px solid black;
+  border: 2px solid red;
 }
 
 .close-eye {
