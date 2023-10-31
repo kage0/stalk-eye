@@ -76,8 +76,8 @@ body {
 }
 
 .noise {
-  background: black;
-  width: 10px;
+  background: rgb(27, 3, 94);
+  width: 20px;
   height: 10px;
   display: inline-block;
   border-radius: 50%;
