@@ -55,10 +55,10 @@ body {
   display: inline-block;
   margin: 40px;
   background: white;
-  border-radius: 50%;
+  border-radius: 50%; 
   position: relative;
   animation: close-eye 2s forwards;
-  overflow: hidden;
+  overflow:  hidden;
   transition: all 1s;
   border: 2px solid pink;
 }
