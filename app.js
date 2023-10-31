@@ -13,6 +13,7 @@ document.onmousemove = function (e) {
 
   for (let i = 0; i < 2; i++) {
     eye[i].addEventListener("click", (e) => {
+      
       console.log("click");
       e.target.classList.add("close-eye");
       console.log(`${e.target.classList}`);
