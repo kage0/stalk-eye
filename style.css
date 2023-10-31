@@ -46,11 +46,11 @@ body {
   top: 45%;
   transform: translateY(-50%);
   width: 100%;
-  text-align: center;
+    text-align: center;
 }
 
 .eye {
-  width: 120px;
+   width: 120px;
   height: 120px;
   display: inline-block;
   margin: 40px;
@@ -60,7 +60,7 @@ body {
   animation: close-eye 2s forwards;
   overflow: hidden;
   transition: all 1s;
-  border: 2px solid black;
+  border: 2px solid pink;
 }
 
 .close-eye {
