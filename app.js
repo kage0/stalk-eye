@@ -19,8 +19,8 @@ document.onmousemove = function (e) {
     });
   }
 
-  console.log("innerWidth: ", innerWidth);
-  console.log("innerHeight: ", innerHeight);
+  console.log   ("innerWidth: ", innerWidth);
+  console.log  ("innerHeight: ", innerHeight);
   console.log("x = ", x);
   console.log("y = ", y);
 };
